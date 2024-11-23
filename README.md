@@ -8,4 +8,7 @@ gradebook.h is the header file for gradebook.c
 a.exe is the executable file for the project  
 
 ## Running
+To compile
+> gcc interface.c gradebook.c -o a
+To run
 > ./a
